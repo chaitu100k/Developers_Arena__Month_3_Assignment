@@ -47,19 +47,6 @@ Week11_Deep_Learning/
 └── Week11_Summary.pdf
 ```
 
-## Setup Instructions
-1. Clone this repository:
-```bash
-git clone <repository_url>
-```
-
-2. Navigate to each week folder and install requirements:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run scripts as instructed in the respective README.md files for Hands-On and Client Projects.
-
 ## Week-wise Details
 
 ### Week 9 - Advanced Supervised Learning
